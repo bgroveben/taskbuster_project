@@ -1,6 +1,5 @@
-# Django settings for this project
-settings.py
-base.py
+# Django files for this project
+db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
